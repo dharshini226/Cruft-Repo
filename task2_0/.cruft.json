@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/maciejwalkowiak/cookiecutter-maven-template.git",
+  "commit": "d57e1d6eaccc9627f5ccc3b120342c28676c9644",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "groupId": "com.softtek",
+      "artifactId": "task2_0",
+      "javaVersion": "11",
+      "junit": "no",
+      "__package": "com.softtek.task2_0",
+      "_template": "https://github.com/maciejwalkowiak/cookiecutter-maven-template.git"
+    }
+  },
+  "directory": null
+}
