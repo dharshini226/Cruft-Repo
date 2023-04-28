@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: muskan.shaikh
+Build-Jdk: 17.0.6
+Implementation-Title: cruft_Proj
+Implementation-Version: 2.7.9
+Implementation-Vendor-Id: CruftProject
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+

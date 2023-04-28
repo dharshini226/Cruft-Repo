@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/zxyle/cookiecutter-maven.git",
+  "commit": "6a3012231cf2fe1a5698e86e0d96fe5e710867f8",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "group": "CruftProject",
+      "artifact": "cruft_Proj",
+      "javaVersion": "17",
+      "package_path": "cruftproj",
+      "basePackage": "com.softtek",
+      "build_tool": "maven",
+      "author_name": "Muskan",
+      "email": "muskanssh@gmail.com",
+      "project_short_description": "sample proj",
+      "version": "2.7.9",
+      "open_source_license": "MIT license",
+      "_copy_without_render": [
+        ".gitkeep",
+        "docs/"
+      ],
+      "_template": "https://github.com/zxyle/cookiecutter-maven.git"
+    }
+  },
+  "directory": null
+}
